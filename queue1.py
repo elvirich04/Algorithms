@@ -8,4 +8,3 @@ Tail=("%s"%aList[len(aList)-1])
 print("Head: "+Head)
 print("Tail: "+Tail)
 
-
